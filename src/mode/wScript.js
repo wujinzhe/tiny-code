@@ -1,0 +1,1 @@
+export const keyword = ['number', 'string', 'false', 'true', 'boolean', 'return']
